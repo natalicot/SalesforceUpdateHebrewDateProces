@@ -3,7 +3,7 @@ Occurs every day at Sunset and schedules the next run for tomorrow.
 
 To execute first initial run execute the next command:
 
-HebrewUpdateProcess pr = new HebrewUpdateProcess();
+HebrewUpdateProcess pr = new HebrewUpdateProcess();..
 
 
 
